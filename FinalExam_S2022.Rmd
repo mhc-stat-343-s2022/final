@@ -8,7 +8,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-- This exam is **due to Gradescope at 11:59 PM ET on Sunday, May 8, 2021.** This is a firm deadline. 
+- This exam is **due to Gradescope at 11:59 PM ET on Sunday, May 8, 2022.** This is a firm deadline. 
 - There are five exam questions. You must show all your work to receive full credit. You may typeset your answers in LaTeX or hand write them; everything should be well-organized and legible.
 - This is a **open** notes, **open** book, **open** Moodle exam (including homework solutions, etc., which are linked in Moodle). Other resources, besides R, **are not permitted.** Make sure to show all your work/thought process and include any R code (where appropriate) for full credit.
 - Once you have accessed the exam, you may only ask for clarification on questions from the instructor. Do not communicate with any other students about the exam until after the exams have been returned. Any such communication is a violation of the Honor Code.
